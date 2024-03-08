@@ -1,6 +1,6 @@
 city=[]
 while len(city)<5:
-    city.append(input("Input name of a city"))
+    city.append(input("Input name of a city: "))
 print(len(city))
 print(city)
 city.append("Hong")
