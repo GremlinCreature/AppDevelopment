@@ -1,10 +1,3 @@
-def average(grades):
-    score=0
-    for i in grades:
-        score=score+i
-    avg=score/len(grades)
-    return avg
-#defining a function to calculate average
 def pass_or_fail(score):
     if score <50:
         res="Fail"
@@ -12,6 +5,13 @@ def pass_or_fail(score):
         res="Pass"
     return res
 #defining a function to find out if it's pass or fail
+def average(grades):
+    score=0
+    for i in grades:
+        score=score+i
+    avg=score/len(grades)
+    return avg
+#defining a function to calculate average
 def main():
     grades=[]
     total_grades=int(input("Input total amount of grades you'd like to put in: "))
