@@ -5,9 +5,9 @@ V=['A','E','I','O','U']
 counter=0
 for l in ml:
     for l1 in v :
-        if l == l1:
+        if l[0] == l1:
             counter=counter+1
     for l2 in V:
-        if l==l2:
+        if l[0]==l2:
             counter=counter+1
 print(counter)
