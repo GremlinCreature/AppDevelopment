@@ -17,5 +17,3 @@ def discount (**purch):
                 new_value = purch.get(key) * 0.95
                 purch.update({key:new_value})
     return purch
-print(purchases_total(Banana=20.0, Orange=30.0, AntiImposterRepelent=50.0,Amongu=34.0))
-print(discount(Banana=20.0, Orange=30.0, AntiImposterRepelent=50.0,Amongu=34.0))
