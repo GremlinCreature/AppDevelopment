@@ -16,7 +16,7 @@ class Arithmetics:
         p=float(h**(1/2))
         print(p)
 
-i=Arithmetics(5,8)
+i=Arithmetics(10,10)
 i.addition()
 i.subtraction()
 i.pythogoras()
