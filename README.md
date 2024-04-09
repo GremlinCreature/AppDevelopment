@@ -7,7 +7,7 @@ age.py - Calculates user's age by asking them their year of birth and taking it 
 
 args.py - made to practice passing variable ammount of arguments within a function. The code takes a variable number of marks and calculates their average before telling if a student passed or failed depending on if the average is above or bellow 50
 
-arithmetics.py - made to practice classes within python. The code is a simple arithmetics calculator that can add, subtract and calculate Pythagoras's theorem with two numbers 
+arithmetics.py - made to practice classes within python. The code is a simple arithmetics calculator that can add, subtract and calculate Pythagoras's theorem with two numbers. Also used to to practice extractin root of a number without importing math module. 
 
 array sum.py - practice of inputting several numbers into a function before I learned about *args. The code asks you how many numbers you want to input and then has you input however many numbers you specified before summing them all up.
 
