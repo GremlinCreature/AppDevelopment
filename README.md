@@ -1,5 +1,6 @@
 # AppDevelopment
 NOTE: VIEW THIS IN CODE MODE IF READING ON GITHUB
+
 All the files are withing pythonProject folder.
 List of files:
 age.py - Calculates user's age by asking them their year of birth and taking it out of the current year (2024). Was made to practice user inputs in python.
