@@ -51,7 +51,7 @@ student_dict.py - practice of dictionaries. Asks how many students there are, th
 
 subandadd.py - one of the earlier codes made to practice functions. Calculates a sum and subtraction of two numbers, then prints them.
 
-test.py - practicing importing functions from shopping_calculator.py
+test.py - practicing importing functions from shopping_calculator.py. Unfortunatelly, it doesn't work at the moment due to me trying to improve the code, resulting into it an error regarding positional arguments.
 
 variable types.py - practice of manipulating types of variables, includiong printing, changing and calling types.
 
