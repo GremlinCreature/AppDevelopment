@@ -39,7 +39,7 @@ nameagestuff.py - practice with arrays. Asks the user to input name and age up u
 
 random_number.py - practice of random numbers. Prints numbers from 1 to 20 in random order.
 
-root.py - practice of arithmetics functions. Calculates root of (x2-x1)^2+(y2-y1)^2, with all the x and y being inputs by the user.
+root.py - practice of arithmetics functions. Extracts root of (x2-x1)^2+(y2-y1)^2, with all the x and y being inputs by the user.
 
 score_arvg_kwargs.py - practice of using kwargs function to calculate scores. The current version was used to practice except TypeError function. To make it work as intended, replace "k" with a number.
 
